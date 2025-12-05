@@ -68,17 +68,18 @@ Dentro de este repositorio podrás encontrar:
 
 ### ✔ **Versión para Android (APK)**
 
-👉 [Descargar APK](https://github.com/AlexRange/TenochCaminosDelSur/TenochVideoGame/Android/)
+👉 [Descargar APK](https://github.com/AlexRange/TenochCaminosDelSur/tree/main/TenochVideoGame/Android)
 
 ### ✔ **Versión para Windows / PC**
 
-👉 [Descargar Build PC](https://github.com/AlexRange/TenochCaminosDelSur/TenochVideoGame/PC/)
+👉 [Descargar Build PC](https://github.com/AlexRange/TenochCaminosDelSur/tree/main/TenochVideoGame/PC)
 
 ### ✔ **Versión Web (WebGL)**
 
 👉 [Jugar en el navegador](https://therealskyman.itch.io/tenoch-camino-del-sur)
 
-👉 [Descargar Build Web](https://github.com/AlexRange/TenochCaminosDelSur/TenochVideoGame/Web/)
+👉 [Descargar Build Web](https://github.com/AlexRange/TenochCaminosDelSur/tree/main/TenochVideoGame/Web
+)
 
 
 ---
